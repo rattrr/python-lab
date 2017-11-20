@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/atom10full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><feed xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xml:lang="en-US" xml:base="https://niebezpiecznik.pl/wp-atom.php">
+	<title type="text">Niebezpiecznik.pl</title>
+	<subtitle type="html">Serwis poświęcony wyłącznie zagadnieniom bezpieczeństwa komputerowego. IT Security po polsku.</subtitle>
+
+	<updated>2017-11-20T18:14:44Z</updated>
+
+	<link rel="alternate" type="text/html" href="https://niebezpiecznik.pl" />
+	<id>https://niebezpiecznik.pl/feed/atom/</id>
+	
+
+	<generator uri="https://wordpress.org/" version="4.8.3">WordPress</generator>
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/atom+xml" href="http://feeds.feedburner.com/niebezpiecznik" /><feedburner:info uri="niebezpiecznik" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><logo>http://niebezpiecznik.pl/nevil.png</logo><feedburner:emailServiceId>niebezpiecznik</feedburner:emailServiceId><feedburner:feedburnerHostname>https://feedburner.google.com</feedburner:feedburnerHostname><feedburner:feedFlare href="https://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.feedburner.com%2Fniebezpiecznik" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2Fniebezpiecznik" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare><feedburner:feedFlare href="http://feeds.my.aol.com/add.jsp?url=http%3A%2F%2Ffeeds.feedburner.com%2Fniebezpiecznik" src="http://o.aolcdn.com/favorites.my.aol.com/webmaster/ffclient/webroot/locale/en-US/images/myAOLButtonSmall.gif">Subscribe with My AOL</feedburner:feedFlare><feedburner:feedFlare href="http://www.bloglines.com/sub/http://feeds.feedburner.com/niebezpiecznik" src="http://www.bloglines.com/images/sub_modern11.gif">Subscribe with Bloglines</feedburner:feedFlare><feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Fniebezpiecznik" src="//www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2Fniebezpiecznik" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:feedFlare href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2Fniebezpiecznik" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare><feedburner:feedFlare href="http://www.plusmo.com/add?url=http%3A%2F%2Ffeeds.feedburner.com%2Fniebezpiecznik" src="http://plusmo.com/res/graphics/fbplusmo.gif">Subscribe with Plusmo</feedburner:feedFlare><feedburner:feedFlare href="http://www.thefreedictionary.com/_/hp/AddRSS.aspx?http%3A%2F%2Ffeeds.feedburner.com%2Fniebezpiecznik" src="http://img.tfd.com/hp/addToTheFreeDictionary.gif">Subscribe with The Free Dictionary</feedburner:feedFlare><feedburner:feedFlare href="http://www.bitty.com/manual/?contenttype=rssfeed&amp;contentvalue=http%3A%2F%2Ffeeds.feedburner.com%2Fniebezpiecznik" src="http://www.bitty.com/img/bittychicklet_91x17.gif">Subscribe with Bitty Browser</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsalloy.com/?rss=http%3A%2F%2Ffeeds.feedburner.com%2Fniebezpiecznik" src="http://www.newsalloy.com/subrss3.gif">Subscribe with NewsAlloy</feedburner:feedFlare><feedburner:feedFlare href="http://www.live.com/?add=http%3A%2F%2Ffeeds.feedburner.com%2Fniebezpiecznik" src="http://tkfiles.storage.msn.com/x1piYkpqHC_35nIp1gLE68-wvzLZO8iXl_JMledmJQXP-XTBOLfmQv4zhj4MhcWEJh_GtoBIiAl1Mjh-ndp9k47If7hTaFno0mxW9_i3p_5qQw">Subscribe with Live.com</feedburner:feedFlare><feedburner:feedFlare href="http://mix.excite.eu/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2Fniebezpiecznik" src="http://image.excite.co.uk/mix/addtomix.gif">Subscribe with Excite MIX</feedburner:feedFlare><feedburner:feedFlare href="http://download.attensa.com/app/get_attensa.html?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2Fniebezpiecznik" src="http://www.attensa.com/blogs/attensa/WindowsLiveWriter/BadgeredintoBadges_10C02/attensa_feed_button5.gif">Subscribe with Attensa for Outlook</feedburner:feedFlare><feedburner:feedFlare href="http://www.webwag.com/wwgthis.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Fniebezpiecznik" src="http://www.webwag.com/images/wwgthis.gif">Subscribe with Webwag</feedburner:feedFlare><feedburner:feedFlare href="http://www.podcastready.com/oneclick_bookmark.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Fniebezpiecznik" src="http://www.podcastready.com/images/podcastready_button.gif">Subscribe with Podcast Ready</feedburner:feedFlare><feedburner:feedFlare href="http://www.flurry.com/pushRssFeed.do?r=fb&amp;url=http%3A%2F%2Ffeeds.feedburner.com%2Fniebezpiecznik" src="http://www.flurry.com/images/flurry_rss_logo2.gif">Subscribe with Flurry</feedburner:feedFlare><feedburner:feedFlare href="http://www.wikio.com/subscribe?url=http%3A%2F%2Ffeeds.feedburner.com%2Fniebezpiecznik" src="http://www.wikio.com/shared/img/add2wikio.gif">Subscribe with Wikio</feedburner:feedFlare><feedburner:feedFlare href="http://www.dailyrotation.com/index.php?feed=http%3A%2F%2Ffeeds.feedburner.com%2Fniebezpiecznik" src="http://www.dailyrotation.com/rss-dr2.gif">Subscribe with Daily Rotation</feedburner:feedFlare><feedburner:browserFriendly>Dodaj tego feeda do swojego czytnika RSS. Dzieki temu bedziesz na biezaco z informacjami z serwisu http://niebezpiecznik.pl </feedburner:browserFriendly><entry>
+		<author>
+			<name>redakcja</name>
+					</author>
+		<title type="html"><![CDATA[Vouchery na szkolenia niebezpiecznika - ważne przez rok]]></title>
+		<link rel="alternate" type="text/html" href="http://feedproxy.google.com/~r/niebezpiecznik/~3/_5KO0pT_dG8/" />
+		<id>https://niebezpiecznik.pl/?p=15637</id>
+		<updated>2017-11-20T11:41:54Z</updated>
+		<published>2017-11-17T08:23:30Z</published>
+		<category scheme="https://niebezpiecznik.pl" term="*GLOWNA" /><category scheme="https://niebezpiecznik.pl" term="atak" /><category scheme="https://niebezpiecznik.pl" term="Niebezpiecznik" /><category scheme="https://niebezpiecznik.pl" term="ochrona" /><category scheme="https://niebezpiecznik.pl" term="szkolenia" /><category scheme="https://niebezpiecznik.pl" term="web" />		
+		<content type="html" xml:base="https://niebezpiecznik.pl/post/poatakuj-z-nami-voucherami-na-2018-rok/">Nadchodzi koniec roku, czas intensywnej pracy w wielu branżach &amp;#8230;i czas, w którym zawsze kilkadziesiąt osób dowiaduje się (za późno) że może jeszcze wydać pozostałe w budżecie środki na...&lt;br/&gt;
+&lt;br/&gt;
+**** To może być tylko fragment wpisu! Kliknij na tytuł aby przeczytać całość. http://niebezpiecznik.pl&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=_5KO0pT_dG8:DnzKvN_wjuY:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=_5KO0pT_dG8:DnzKvN_wjuY:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/niebezpiecznik/~4/_5KO0pT_dG8" height="1" width="1" alt=""/&gt;</content>
+			<link rel="replies" type="text/html" href="https://niebezpiecznik.pl/post/poatakuj-z-nami-voucherami-na-2018-rok/#comments" thr:count="3" />
+		<link rel="replies" type="application/atom+xml" href="https://niebezpiecznik.pl/post/poatakuj-z-nami-voucherami-na-2018-rok/feed/atom/" thr:count="3" />
+		<thr:total>3</thr:total>
+		<feedburner:origLink>https://niebezpiecznik.pl/post/poatakuj-z-nami-voucherami-na-2018-rok/</feedburner:origLink></entry>
+		<entry>
+		<author>
+			<name>Marcin Maj</name>
+						<uri>https://niebezpiecznik.pl</uri>
+					</author>
+		<title type="html"><![CDATA[Błagam, odbierzcie mi dostęp do repozytorium! Takich próśb warto posłuchać :)]]></title>
+		<link rel="alternate" type="text/html" href="http://feedproxy.google.com/~r/niebezpiecznik/~3/VYHpB0h6118/" />
+		<id>https://niebezpiecznik.pl/?p=15645</id>
+		<updated>2017-11-20T16:57:57Z</updated>
+		<published>2017-11-20T11:57:41Z</published>
+		<category scheme="https://niebezpiecznik.pl" term="*GLOWNA" /><category scheme="https://niebezpiecznik.pl" term="Od Czytelników" /><category scheme="https://niebezpiecznik.pl" term="śmieszne" /><category scheme="https://niebezpiecznik.pl" term="BitBucket" /><category scheme="https://niebezpiecznik.pl" term="fail" /><category scheme="https://niebezpiecznik.pl" term="Nowa Era" /><category scheme="https://niebezpiecznik.pl" term="współpraca zdalna" /><category scheme="https://niebezpiecznik.pl" term="wydawnictwo" />		
+		<content type="html" xml:base="https://niebezpiecznik.pl/post/blagam-odbierzcie-mi-dostep-do-repozytorium-takich-prosb-warto-posluchac/">Dostęp do nowych projektów dużej firmy można dostać całkowicie przypadkowo. Przekonał się o tym nasz Czytelnik, który kilkakrotnie zgłaszał taką pomyłkę Nowej Erze i mimo to miał dostęp do bazy...&lt;br/&gt;
+&lt;br/&gt;
+**** To może być tylko fragment wpisu! Kliknij na tytuł aby przeczytać całość. http://niebezpiecznik.pl&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=VYHpB0h6118:n_HzhbGYZew:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=VYHpB0h6118:n_HzhbGYZew:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/niebezpiecznik/~4/VYHpB0h6118" height="1" width="1" alt=""/&gt;</content>
+			<link rel="replies" type="text/html" href="https://niebezpiecznik.pl/post/blagam-odbierzcie-mi-dostep-do-repozytorium-takich-prosb-warto-posluchac/#comments" thr:count="25" />
+		<link rel="replies" type="application/atom+xml" href="https://niebezpiecznik.pl/post/blagam-odbierzcie-mi-dostep-do-repozytorium-takich-prosb-warto-posluchac/feed/atom/" thr:count="25" />
+		<thr:total>25</thr:total>
+		<feedburner:origLink>https://niebezpiecznik.pl/post/blagam-odbierzcie-mi-dostep-do-repozytorium-takich-prosb-warto-posluchac/</feedburner:origLink></entry>
+		<entry>
+		<author>
+			<name>redakcja</name>
+					</author>
+		<title type="html"><![CDATA[Kto zgadnie, o co tu chodzi?]]></title>
+		<link rel="alternate" type="text/html" href="http://feedproxy.google.com/~r/niebezpiecznik/~3/YLAnTbDh3JY/" />
+		<id>https://niebezpiecznik.pl/?p=15653</id>
+		<updated>2017-11-20T18:14:44Z</updated>
+		<published>2017-11-20T18:14:44Z</published>
+		<category scheme="https://niebezpiecznik.pl" term="*GLOWNA" /><category scheme="https://niebezpiecznik.pl" term="awizo" /><category scheme="https://niebezpiecznik.pl" term="śmieszne" /><category scheme="https://niebezpiecznik.pl" term="poczta" /><category scheme="https://niebezpiecznik.pl" term="scam" /><category scheme="https://niebezpiecznik.pl" term="WTF" />		
+		<content type="html" xml:base="https://niebezpiecznik.pl/post/kto-zgadnie-o-co-tu-chodzi/">Jeden z Czytelników poinformował nas, że jego koleżanka otrzymała takie nietypowe &amp;#8220;awizo&amp;#8221;: No i teraz zagadka. Czy to scam, czy nie? :) Przeczytaj także: * Możesz podać mi swoje hasło do...&lt;br/&gt;
+&lt;br/&gt;
+**** To może być tylko fragment wpisu! Kliknij na tytuł aby przeczytać całość. http://niebezpiecznik.pl&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=YLAnTbDh3JY:3oQtrk1MaVY:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=YLAnTbDh3JY:3oQtrk1MaVY:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/niebezpiecznik/~4/YLAnTbDh3JY" height="1" width="1" alt=""/&gt;</content>
+			<link rel="replies" type="text/html" href="https://niebezpiecznik.pl/post/kto-zgadnie-o-co-tu-chodzi/#comments" thr:count="0" />
+		<link rel="replies" type="application/atom+xml" href="https://niebezpiecznik.pl/post/kto-zgadnie-o-co-tu-chodzi/feed/atom/" thr:count="0" />
+		<thr:total>0</thr:total>
+		<feedburner:origLink>https://niebezpiecznik.pl/post/kto-zgadnie-o-co-tu-chodzi/</feedburner:origLink></entry>
+		<entry>
+		<author>
+			<name>Marcin Maj</name>
+						<uri>https://niebezpiecznik.pl</uri>
+					</author>
+		<title type="html"><![CDATA[Pobierając nowego Firefoksa przez Google możesz stracić 30 PLN]]></title>
+		<link rel="alternate" type="text/html" href="http://feedproxy.google.com/~r/niebezpiecznik/~3/w-7lv__eGqs/" />
+		<id>https://niebezpiecznik.pl/?p=15631</id>
+		<updated>2017-11-20T16:57:29Z</updated>
+		<published>2017-11-20T14:36:54Z</published>
+		<category scheme="https://niebezpiecznik.pl" term="*GLOWNA" /><category scheme="https://niebezpiecznik.pl" term="DobreProgramy.pl" /><category scheme="https://niebezpiecznik.pl" term="oszustwa" /><category scheme="https://niebezpiecznik.pl" term="Premium SMS" /><category scheme="https://niebezpiecznik.pl" term="www.dobreprogramy.pro" />		
+		<content type="html" xml:base="https://niebezpiecznik.pl/post/naciagacze-premium-sms-chca-zarobic-na-firefoksie/">Jeśli chcecie wypróbować nowego Firefoxa Quantum, najlepiej pobierajcie go ze stron Mozilli. Serwisy &amp;#8220;alternatywne&amp;#8221; mogą zawierać przykre niespodzianki. Nasz Czytelnik &amp;#8211; Konrad...&lt;br/&gt;
+&lt;br/&gt;
+**** To może być tylko fragment wpisu! Kliknij na tytuł aby przeczytać całość. http://niebezpiecznik.pl&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=w-7lv__eGqs:qtsB-QgPivM:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=w-7lv__eGqs:qtsB-QgPivM:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/niebezpiecznik/~4/w-7lv__eGqs" height="1" width="1" alt=""/&gt;</content>
+			<link rel="replies" type="text/html" href="https://niebezpiecznik.pl/post/naciagacze-premium-sms-chca-zarobic-na-firefoksie/#comments" thr:count="1" />
+		<link rel="replies" type="application/atom+xml" href="https://niebezpiecznik.pl/post/naciagacze-premium-sms-chca-zarobic-na-firefoksie/feed/atom/" thr:count="1" />
+		<thr:total>1</thr:total>
+		<feedburner:origLink>https://niebezpiecznik.pl/post/naciagacze-premium-sms-chca-zarobic-na-firefoksie/</feedburner:origLink></entry>
+		<entry>
+		<author>
+			<name>redakcja</name>
+					</author>
+		<title type="html"><![CDATA[Memdump #003 (3/2017)]]></title>
+		<link rel="alternate" type="text/html" href="http://feedproxy.google.com/~r/niebezpiecznik/~3/EtPlTvvdVOg/" />
+		<id>https://niebezpiecznik.pl/?p=15598</id>
+		<updated>2017-11-20T07:48:33Z</updated>
+		<published>2017-11-19T19:41:28Z</published>
+		<category scheme="https://niebezpiecznik.pl" term="*GLOWNA" /><category scheme="https://niebezpiecznik.pl" term="AI" /><category scheme="https://niebezpiecznik.pl" term="antywirusy" /><category scheme="https://niebezpiecznik.pl" term="API" /><category scheme="https://niebezpiecznik.pl" term="Apple" /><category scheme="https://niebezpiecznik.pl" term="Boeing" /><category scheme="https://niebezpiecznik.pl" term="boty" /><category scheme="https://niebezpiecznik.pl" term="DNS" /><category scheme="https://niebezpiecznik.pl" term="GitHub" /><category scheme="https://niebezpiecznik.pl" term="Google" /><category scheme="https://niebezpiecznik.pl" term="Hacked!" /><category scheme="https://niebezpiecznik.pl" term="hardening" /><category scheme="https://niebezpiecznik.pl" term="iPhone X" /><category scheme="https://niebezpiecznik.pl" term="Kaspersky" /><category scheme="https://niebezpiecznik.pl" term="lotnictwo" /><category scheme="https://niebezpiecznik.pl" term="macOS" /><category scheme="https://niebezpiecznik.pl" term="malware" /><category scheme="https://niebezpiecznik.pl" term="McAfee" /><category scheme="https://niebezpiecznik.pl" term="Microsoft" /><category scheme="https://niebezpiecznik.pl" term="Office" /><category scheme="https://niebezpiecznik.pl" term="OINT" /><category scheme="https://niebezpiecznik.pl" term="oneplus" /><category scheme="https://niebezpiecznik.pl" term="osquery" /><category scheme="https://niebezpiecznik.pl" term="oszustwa" /><category scheme="https://niebezpiecznik.pl" term="pentest" /><category scheme="https://niebezpiecznik.pl" term="programowanie" /><category scheme="https://niebezpiecznik.pl" term="radio" /><category scheme="https://niebezpiecznik.pl" term="RSO" /><category scheme="https://niebezpiecznik.pl" term="scam" /><category scheme="https://niebezpiecznik.pl" term="SPAM" /><category scheme="https://niebezpiecznik.pl" term="Toast Overlay" /><category scheme="https://niebezpiecznik.pl" term="Unit42" /><category scheme="https://niebezpiecznik.pl" term="Wazuh" /><category scheme="https://niebezpiecznik.pl" term="wibratory" /><category scheme="https://niebezpiecznik.pl" term="Windows" />		
+		<content type="html" xml:base="https://niebezpiecznik.pl/post/memdump-003-32017/">Memdump to nasze cotygodniowe zestawienie informacji &amp;#8220;zrzuconych z pamięci&amp;#8221; redaktorów. Poniższe tematy były godne uwagi i nas zainteresowały, ale z różnych przyczyn nie zdążyliśmy ich...&lt;br/&gt;
+&lt;br/&gt;
+**** To może być tylko fragment wpisu! Kliknij na tytuł aby przeczytać całość. http://niebezpiecznik.pl&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=EtPlTvvdVOg:4J9gB_U1j3E:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=EtPlTvvdVOg:4J9gB_U1j3E:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/niebezpiecznik/~4/EtPlTvvdVOg" height="1" width="1" alt=""/&gt;</content>
+			<link rel="replies" type="text/html" href="https://niebezpiecznik.pl/post/memdump-003-32017/#comments" thr:count="7" />
+		<link rel="replies" type="application/atom+xml" href="https://niebezpiecznik.pl/post/memdump-003-32017/feed/atom/" thr:count="7" />
+		<thr:total>7</thr:total>
+		<feedburner:origLink>https://niebezpiecznik.pl/post/memdump-003-32017/</feedburner:origLink></entry>
+		<entry>
+		<author>
+			<name>redakcja</name>
+					</author>
+		<title type="html"><![CDATA[* Film dokumentalny o inwigilacji]]></title>
+		<link rel="alternate" type="text/html" href="http://feedproxy.google.com/~r/niebezpiecznik/~3/OSoRgk79jM8/" />
+		<id>https://niebezpiecznik.pl/?p=15611</id>
+		<updated>2017-11-14T09:02:32Z</updated>
+		<published>2017-11-18T08:00:59Z</published>
+		<category scheme="https://niebezpiecznik.pl" term="*ptr" /><category scheme="https://niebezpiecznik.pl" term="filmy" /><category scheme="https://niebezpiecznik.pl" term="inwigilacja" /><category scheme="https://niebezpiecznik.pl" term="prywatność" />		
+		<content type="html" xml:base="https://niebezpiecznik.pl/post/film-dokumentalny-o-inwigilacji/">Godzinka z hackiem. Miłego oglądania! Dziękujemy Patrykowi za podesłanie namiaru Przeczytaj także: * Spycraft &amp;#8211; film o kulisach pracy szpiegów Hackowanie Excelem (film Unthinkable) ipconfig...&lt;br/&gt;
+&lt;br/&gt;
+**** To może być tylko fragment wpisu! Kliknij na tytuł aby przeczytać całość. http://niebezpiecznik.pl&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=OSoRgk79jM8:XDAk-AE_fJ4:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=OSoRgk79jM8:XDAk-AE_fJ4:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/niebezpiecznik/~4/OSoRgk79jM8" height="1" width="1" alt=""/&gt;</content>
+			<link rel="replies" type="text/html" href="https://niebezpiecznik.pl/post/film-dokumentalny-o-inwigilacji/#comments" thr:count="11" />
+		<link rel="replies" type="application/atom+xml" href="https://niebezpiecznik.pl/post/film-dokumentalny-o-inwigilacji/feed/atom/" thr:count="11" />
+		<thr:total>11</thr:total>
+		<feedburner:origLink>https://niebezpiecznik.pl/post/film-dokumentalny-o-inwigilacji/</feedburner:origLink></entry>
+		<entry>
+		<author>
+			<name>redakcja</name>
+					</author>
+		<title type="html"><![CDATA[Klienci internetowego sklepu jubilerskiego są szantażowani -- ktoś pozyskał ich dane, odnalazł &quot;dziewczyny&quot; w internecie i chce zepsuć im zaręczyny]]></title>
+		<link rel="alternate" type="text/html" href="http://feedproxy.google.com/~r/niebezpiecznik/~3/85LyXT63esk/" />
+		<id>https://niebezpiecznik.pl/?p=15619</id>
+		<updated>2017-11-16T22:42:18Z</updated>
+		<published>2017-11-15T07:52:20Z</published>
+		<category scheme="https://niebezpiecznik.pl" term="*GLOWNA" /><category scheme="https://niebezpiecznik.pl" term="atak" /><category scheme="https://niebezpiecznik.pl" term="śmieszne" /><category scheme="https://niebezpiecznik.pl" term="BitCoin" /><category scheme="https://niebezpiecznik.pl" term="pieniądze" /><category scheme="https://niebezpiecznik.pl" term="savicki.pl" /><category scheme="https://niebezpiecznik.pl" term="sklepy internetowe" /><category scheme="https://niebezpiecznik.pl" term="szantaż" /><category scheme="https://niebezpiecznik.pl" term="wyłudzenia" /><category scheme="https://niebezpiecznik.pl" term="wyciek" />		
+		<content type="html" xml:base="https://niebezpiecznik.pl/post/ktos-wyludza-okup-od-kochankow-i-niedoszlych-nowozencow-ich-dane-mial-zdobyc-od-sklepu-jubilerskiego/">Błędy w serwisach internetowych to chleb powszedni. Zazwyczaj wykradane bazy danych są wykorzystywane do poznania haseł użytkowników i później do włamań na ich konta w innych, ważniejszych serwisach,...&lt;br/&gt;
+&lt;br/&gt;
+**** To może być tylko fragment wpisu! Kliknij na tytuł aby przeczytać całość. http://niebezpiecznik.pl&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=85LyXT63esk:0oKJIRO-f_w:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=85LyXT63esk:0oKJIRO-f_w:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/niebezpiecznik/~4/85LyXT63esk" height="1" width="1" alt=""/&gt;</content>
+			<link rel="replies" type="text/html" href="https://niebezpiecznik.pl/post/ktos-wyludza-okup-od-kochankow-i-niedoszlych-nowozencow-ich-dane-mial-zdobyc-od-sklepu-jubilerskiego/#comments" thr:count="38" />
+		<link rel="replies" type="application/atom+xml" href="https://niebezpiecznik.pl/post/ktos-wyludza-okup-od-kochankow-i-niedoszlych-nowozencow-ich-dane-mial-zdobyc-od-sklepu-jubilerskiego/feed/atom/" thr:count="38" />
+		<thr:total>38</thr:total>
+		<feedburner:origLink>https://niebezpiecznik.pl/post/ktos-wyludza-okup-od-kochankow-i-niedoszlych-nowozencow-ich-dane-mial-zdobyc-od-sklepu-jubilerskiego/</feedburner:origLink></entry>
+		<entry>
+		<author>
+			<name>redakcja</name>
+					</author>
+		<title type="html"><![CDATA[* Uwaga na wyłudzenia przez bramkę SMS Plusa]]></title>
+		<link rel="alternate" type="text/html" href="http://feedproxy.google.com/~r/niebezpiecznik/~3/dU_YM2CRJtk/" />
+		<id>https://niebezpiecznik.pl/?p=15612</id>
+		<updated>2017-11-15T07:08:56Z</updated>
+		<published>2017-11-15T12:44:26Z</published>
+		<category scheme="https://niebezpiecznik.pl" term="*ptr" /><category scheme="https://niebezpiecznik.pl" term="oszustwo" /><category scheme="https://niebezpiecznik.pl" term="PlusGSM" /><category scheme="https://niebezpiecznik.pl" term="scam" /><category scheme="https://niebezpiecznik.pl" term="SMS" />		
+		<content type="html" xml:base="https://niebezpiecznik.pl/post/uwaga-na-wyludzenia-przez-bramke-sms-plusa/">Do naszych czytelników spływają SMS-y mniej-więcej takiej treści: Wiadomosc z internetowej bramki sms od XXX: potwierdzamy uruchomienie usługi MOJEGRY Online na numerze XXX. Opłata za usługę wynosi...&lt;br/&gt;
+&lt;br/&gt;
+**** To może być tylko fragment wpisu! Kliknij na tytuł aby przeczytać całość. http://niebezpiecznik.pl&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=dU_YM2CRJtk:tUxfje9Fbck:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=dU_YM2CRJtk:tUxfje9Fbck:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/niebezpiecznik/~4/dU_YM2CRJtk" height="1" width="1" alt=""/&gt;</content>
+			<link rel="replies" type="text/html" href="https://niebezpiecznik.pl/post/uwaga-na-wyludzenia-przez-bramke-sms-plusa/#comments" thr:count="8" />
+		<link rel="replies" type="application/atom+xml" href="https://niebezpiecznik.pl/post/uwaga-na-wyludzenia-przez-bramke-sms-plusa/feed/atom/" thr:count="8" />
+		<thr:total>8</thr:total>
+		<feedburner:origLink>https://niebezpiecznik.pl/post/uwaga-na-wyludzenia-przez-bramke-sms-plusa/</feedburner:origLink></entry>
+		<entry>
+		<author>
+			<name>Marcin Maj</name>
+						<uri>https://niebezpiecznik.pl</uri>
+					</author>
+		<title type="html"><![CDATA[* Po co mBank prosi o włączenie kamerki?]]></title>
+		<link rel="alternate" type="text/html" href="http://feedproxy.google.com/~r/niebezpiecznik/~3/w2TzDMybaTA/" />
+		<id>https://niebezpiecznik.pl/?p=15628</id>
+		<updated>2017-11-16T13:43:15Z</updated>
+		<published>2017-11-15T08:53:21Z</published>
+		<category scheme="https://niebezpiecznik.pl" term="*ptr" /><category scheme="https://niebezpiecznik.pl" term="kamera" /><category scheme="https://niebezpiecznik.pl" term="mBank" /><category scheme="https://niebezpiecznik.pl" term="prywatność" />		
+		<content type="html" xml:base="https://niebezpiecznik.pl/post/po-co-mbank-prosi-o-wlaczenie-kamerki/">Czytelnicy pytają nas, czy udostępnienie kamerki mBankowi jest bezpieczne. Chodzi o akcję promocyjną prowadzoną na stronie www.razem-najlepiej.pl. Strona zachęca do uruchomienia kamerki i obiecuje,...&lt;br/&gt;
+&lt;br/&gt;
+**** To może być tylko fragment wpisu! Kliknij na tytuł aby przeczytać całość. http://niebezpiecznik.pl&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=w2TzDMybaTA:W5sckZlfyvA:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=w2TzDMybaTA:W5sckZlfyvA:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/niebezpiecznik/~4/w2TzDMybaTA" height="1" width="1" alt=""/&gt;</content>
+			<link rel="replies" type="text/html" href="https://niebezpiecznik.pl/post/po-co-mbank-prosi-o-wlaczenie-kamerki/#comments" thr:count="11" />
+		<link rel="replies" type="application/atom+xml" href="https://niebezpiecznik.pl/post/po-co-mbank-prosi-o-wlaczenie-kamerki/feed/atom/" thr:count="11" />
+		<thr:total>11</thr:total>
+		<feedburner:origLink>https://niebezpiecznik.pl/post/po-co-mbank-prosi-o-wlaczenie-kamerki/</feedburner:origLink></entry>
+		<entry>
+		<author>
+			<name>Marcin Maj</name>
+						<uri>https://niebezpiecznik.pl</uri>
+					</author>
+		<title type="html"><![CDATA[Podałeś numer karty Booking.com? Zgadnij, kto ma do niej dostęp&#8230;]]></title>
+		<link rel="alternate" type="text/html" href="http://feedproxy.google.com/~r/niebezpiecznik/~3/b4MQTCNXyU0/" />
+		<id>https://niebezpiecznik.pl/?p=15613</id>
+		<updated>2017-11-15T07:08:17Z</updated>
+		<published>2017-11-14T12:59:50Z</published>
+		<category scheme="https://niebezpiecznik.pl" term="*GLOWNA" /><category scheme="https://niebezpiecznik.pl" term="Od Czytelników" /><category scheme="https://niebezpiecznik.pl" term="banki" /><category scheme="https://niebezpiecznik.pl" term="Booking.com" /><category scheme="https://niebezpiecznik.pl" term="CVC" /><category scheme="https://niebezpiecznik.pl" term="CVV2" /><category scheme="https://niebezpiecznik.pl" term="hotele" /><category scheme="https://niebezpiecznik.pl" term="karty kredytowe" /><category scheme="https://niebezpiecznik.pl" term="karty płatnicze" /><category scheme="https://niebezpiecznik.pl" term="płatności" />		
+		<content type="html" xml:base="https://niebezpiecznik.pl/post/placac-przez-booking-com-masz-pewnosc-ze-dane-karty-beda-bezpieczne-oh-wait/">Wracamy do tematu spisywania danych z kart płatniczych w hotelach, wypożyczalniach i innych miejscach rozrywki/wypoczynku. Już wiemy, że groźne spisywanie danych na kartki jest dość powszechne, a...&lt;br/&gt;
+&lt;br/&gt;
+**** To może być tylko fragment wpisu! Kliknij na tytuł aby przeczytać całość. http://niebezpiecznik.pl&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=b4MQTCNXyU0:Iy5iL8u7Rtw:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=b4MQTCNXyU0:Iy5iL8u7Rtw:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/niebezpiecznik/~4/b4MQTCNXyU0" height="1" width="1" alt=""/&gt;</content>
+			<link rel="replies" type="text/html" href="https://niebezpiecznik.pl/post/placac-przez-booking-com-masz-pewnosc-ze-dane-karty-beda-bezpieczne-oh-wait/#comments" thr:count="90" />
+		<link rel="replies" type="application/atom+xml" href="https://niebezpiecznik.pl/post/placac-przez-booking-com-masz-pewnosc-ze-dane-karty-beda-bezpieczne-oh-wait/feed/atom/" thr:count="90" />
+		<thr:total>90</thr:total>
+		<feedburner:origLink>https://niebezpiecznik.pl/post/placac-przez-booking-com-masz-pewnosc-ze-dane-karty-beda-bezpieczne-oh-wait/</feedburner:origLink></entry>
+		<entry>
+		<author>
+			<name>Marcin Maj</name>
+						<uri>https://niebezpiecznik.pl</uri>
+					</author>
+		<title type="html"><![CDATA[&#8220;Anonimowy&#8221; sprawca ataków DDoS wpadł przez e-maila i GIFa z myszą]]></title>
+		<link rel="alternate" type="text/html" href="http://feedproxy.google.com/~r/niebezpiecznik/~3/Mq_26rzxW30/" />
+		<id>https://niebezpiecznik.pl/?p=15600</id>
+		<updated>2017-11-14T09:52:58Z</updated>
+		<published>2017-11-14T09:52:58Z</published>
+		<category scheme="https://niebezpiecznik.pl" term="*GLOWNA" /><category scheme="https://niebezpiecznik.pl" term="Anonimowi" /><category scheme="https://niebezpiecznik.pl" term="Anonymous" /><category scheme="https://niebezpiecznik.pl" term="atak" /><category scheme="https://niebezpiecznik.pl" term="booter" /><category scheme="https://niebezpiecznik.pl" term="DDoS" /><category scheme="https://niebezpiecznik.pl" term="fail" /><category scheme="https://niebezpiecznik.pl" term="FBI" /><category scheme="https://niebezpiecznik.pl" term="GMail" /><category scheme="https://niebezpiecznik.pl" term="stresser" /><category scheme="https://niebezpiecznik.pl" term="VPN" />		
+		<content type="html" xml:base="https://niebezpiecznik.pl/post/anonimowy-sprawca-atakow-ddos-wpadl-przez-e-maila-i-gifa-z-mysza/">Bezsensowna zemsta, nieostrożność przy zakładaniu kont e-mailowych oraz &amp;#8220;znak rozpoznawczy&amp;#8221; dodawany do każdej wiadomości. Te trzy rzeczy sprawiły, że FBI namierzyła członka...&lt;br/&gt;
+&lt;br/&gt;
+**** To może być tylko fragment wpisu! Kliknij na tytuł aby przeczytać całość. http://niebezpiecznik.pl&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=Mq_26rzxW30:dcoZiw23BoY:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=Mq_26rzxW30:dcoZiw23BoY:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/niebezpiecznik/~4/Mq_26rzxW30" height="1" width="1" alt=""/&gt;</content>
+			<link rel="replies" type="text/html" href="https://niebezpiecznik.pl/post/anonimowy-sprawca-atakow-ddos-wpadl-przez-e-maila-i-gifa-z-mysza/#comments" thr:count="15" />
+		<link rel="replies" type="application/atom+xml" href="https://niebezpiecznik.pl/post/anonimowy-sprawca-atakow-ddos-wpadl-przez-e-maila-i-gifa-z-mysza/feed/atom/" thr:count="15" />
+		<thr:total>15</thr:total>
+		<feedburner:origLink>https://niebezpiecznik.pl/post/anonimowy-sprawca-atakow-ddos-wpadl-przez-e-maila-i-gifa-z-mysza/</feedburner:origLink></entry>
+		<entry>
+		<author>
+			<name>redakcja</name>
+					</author>
+		<title type="html"><![CDATA[Maską za 150 dolarów obeszli Face ID, czyli wbudowany w iPhone X skaner twarzy]]></title>
+		<link rel="alternate" type="text/html" href="http://feedproxy.google.com/~r/niebezpiecznik/~3/dZkwpGHj-W0/" />
+		<id>https://niebezpiecznik.pl/?p=15606</id>
+		<updated>2017-11-14T08:44:27Z</updated>
+		<published>2017-11-13T18:34:32Z</published>
+		<category scheme="https://niebezpiecznik.pl" term="*GLOWNA" /><category scheme="https://niebezpiecznik.pl" term="AI" /><category scheme="https://niebezpiecznik.pl" term="atak" /><category scheme="https://niebezpiecznik.pl" term="biometria" /><category scheme="https://niebezpiecznik.pl" term="Face ID" /><category scheme="https://niebezpiecznik.pl" term="iPhone" /><category scheme="https://niebezpiecznik.pl" term="iPhone X" /><category scheme="https://niebezpiecznik.pl" term="machine learning" /><category scheme="https://niebezpiecznik.pl" term="Maska" /><category scheme="https://niebezpiecznik.pl" term="sieć neuronowa" />		
+		<content type="html" xml:base="https://niebezpiecznik.pl/post/maska-za-150-dolarow-obeszli-face-id-czyli-wbudowany-w-iphone-x-skaner-twarzy/">Wygląda na to, że po zaledwie 10 dniach od premiery mamy pierwsze udane obejście FaceID w iPhoneX. FaceID zastąpił TouchID &amp;#8212; najnowszego iPhona nie da się odblokować przez &amp;#8220;skan&amp;#8221;...&lt;br/&gt;
+&lt;br/&gt;
+**** To może być tylko fragment wpisu! Kliknij na tytuł aby przeczytać całość. http://niebezpiecznik.pl&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=dZkwpGHj-W0:oTxGNfp2zWs:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=dZkwpGHj-W0:oTxGNfp2zWs:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/niebezpiecznik/~4/dZkwpGHj-W0" height="1" width="1" alt=""/&gt;</content>
+			<link rel="replies" type="text/html" href="https://niebezpiecznik.pl/post/maska-za-150-dolarow-obeszli-face-id-czyli-wbudowany-w-iphone-x-skaner-twarzy/#comments" thr:count="50" />
+		<link rel="replies" type="application/atom+xml" href="https://niebezpiecznik.pl/post/maska-za-150-dolarow-obeszli-face-id-czyli-wbudowany-w-iphone-x-skaner-twarzy/feed/atom/" thr:count="50" />
+		<thr:total>50</thr:total>
+		<feedburner:origLink>https://niebezpiecznik.pl/post/maska-za-150-dolarow-obeszli-face-id-czyli-wbudowany-w-iphone-x-skaner-twarzy/</feedburner:origLink></entry>
+		<entry>
+		<author>
+			<name>redakcja</name>
+					</author>
+		<title type="html"><![CDATA[Memdump #002 (2/2017)]]></title>
+		<link rel="alternate" type="text/html" href="http://feedproxy.google.com/~r/niebezpiecznik/~3/oE4RwDlAjFs/" />
+		<id>https://niebezpiecznik.pl/?p=15577</id>
+		<updated>2017-11-10T21:30:02Z</updated>
+		<published>2017-11-10T21:30:02Z</published>
+		<category scheme="https://niebezpiecznik.pl" term="*GLOWNA" /><category scheme="https://niebezpiecznik.pl" term="Memdump" /><category scheme="https://niebezpiecznik.pl" term="memdump" />		
+		<content type="html" xml:base="https://niebezpiecznik.pl/post/memdump-002-22017/">Memdump to nasze cotygodniowe zestawienie informacji &amp;#8220;zrzuconych z pamięci&amp;#8221; redaktorów. Poniższe tematy, były godne uwagi i nas zainteresowały, ale z różnych przyczyn nie zdążyliśmy ich...&lt;br/&gt;
+&lt;br/&gt;
+**** To może być tylko fragment wpisu! Kliknij na tytuł aby przeczytać całość. http://niebezpiecznik.pl&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=oE4RwDlAjFs:lPzxEuDj4TA:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=oE4RwDlAjFs:lPzxEuDj4TA:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/niebezpiecznik/~4/oE4RwDlAjFs" height="1" width="1" alt=""/&gt;</content>
+			<link rel="replies" type="text/html" href="https://niebezpiecznik.pl/post/memdump-002-22017/#comments" thr:count="27" />
+		<link rel="replies" type="application/atom+xml" href="https://niebezpiecznik.pl/post/memdump-002-22017/feed/atom/" thr:count="27" />
+		<thr:total>27</thr:total>
+		<feedburner:origLink>https://niebezpiecznik.pl/post/memdump-002-22017/</feedburner:origLink></entry>
+		<entry>
+		<author>
+			<name>redakcja</name>
+					</author>
+		<title type="html"><![CDATA[* OVH padło]]></title>
+		<link rel="alternate" type="text/html" href="http://feedproxy.google.com/~r/niebezpiecznik/~3/XVdPo3dasgY/" />
+		<id>https://niebezpiecznik.pl/?p=15593</id>
+		<updated>2017-11-09T11:10:51Z</updated>
+		<published>2017-11-09T08:36:00Z</published>
+		<category scheme="https://niebezpiecznik.pl" term="*ptr" /><category scheme="https://niebezpiecznik.pl" term="fail" /><category scheme="https://niebezpiecznik.pl" term="hosting" /><category scheme="https://niebezpiecznik.pl" term="OVH" /><category scheme="https://niebezpiecznik.pl" term="prąd" /><category scheme="https://niebezpiecznik.pl" term="serwerownia" />		
+		<content type="html" xml:base="https://niebezpiecznik.pl/post/ovh-padlo/">Hekatomba w OVH. Nawet strona ze statusem nie działa. Prąd padł, ale generatory nie wstały: Jeśli jakaś strona Wam teraz nie działa, to już wiecie, gdzie się hostuje. Możę będzie z tego coś dobrego i...&lt;br/&gt;
+&lt;br/&gt;
+**** To może być tylko fragment wpisu! Kliknij na tytuł aby przeczytać całość. http://niebezpiecznik.pl&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=XVdPo3dasgY:2y2XCp5L6Jw:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=XVdPo3dasgY:2y2XCp5L6Jw:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/niebezpiecznik/~4/XVdPo3dasgY" height="1" width="1" alt=""/&gt;</content>
+			<link rel="replies" type="text/html" href="https://niebezpiecznik.pl/post/ovh-padlo/#comments" thr:count="57" />
+		<link rel="replies" type="application/atom+xml" href="https://niebezpiecznik.pl/post/ovh-padlo/feed/atom/" thr:count="57" />
+		<thr:total>57</thr:total>
+		<feedburner:origLink>https://niebezpiecznik.pl/post/ovh-padlo/</feedburner:origLink></entry>
+		<entry>
+		<author>
+			<name>redakcja</name>
+					</author>
+		<title type="html"><![CDATA[Na Podsłuchu #005 &#8212; ten z niezwykłym programistą]]></title>
+		<link rel="alternate" type="text/html" href="http://feedproxy.google.com/~r/niebezpiecznik/~3/lVkI9EErqTY/" />
+		<id>https://niebezpiecznik.pl/?p=15591</id>
+		<updated>2017-11-08T17:24:58Z</updated>
+		<published>2017-11-08T17:08:55Z</published>
+		<category scheme="https://niebezpiecznik.pl" term="*GLOWNA" /><category scheme="https://niebezpiecznik.pl" term="na podsłuchu" /><category scheme="https://niebezpiecznik.pl" term="programowanie" />		
+		<content type="html" xml:base="https://niebezpiecznik.pl/post/na-podsluchu-005-ten-z-niezwyklym-programista/">Ten odcinek podcastu jest niezwykły. Kuba rozmawia z Tomkiem, niecodziennym programistą, który do programowania &amp;#8230;nie używa monitora. Kuba poznał Tomka kiedy prowadził jeden z ostatnich terminów...&lt;br/&gt;
+&lt;br/&gt;
+**** To może być tylko fragment wpisu! Kliknij na tytuł aby przeczytać całość. http://niebezpiecznik.pl&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=lVkI9EErqTY:vE1Pf1tsC4c:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/niebezpiecznik?a=lVkI9EErqTY:vE1Pf1tsC4c:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/niebezpiecznik?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/niebezpiecznik/~4/lVkI9EErqTY" height="1" width="1" alt=""/&gt;</content>
+			<link rel="replies" type="text/html" href="https://niebezpiecznik.pl/post/na-podsluchu-005-ten-z-niezwyklym-programista/#comments" thr:count="26" />
+		<link rel="replies" type="application/atom+xml" href="https://niebezpiecznik.pl/post/na-podsluchu-005-ten-z-niezwyklym-programista/feed/atom/" thr:count="26" />
+		<thr:total>26</thr:total>
+		<feedburner:origLink>https://niebezpiecznik.pl/post/na-podsluchu-005-ten-z-niezwyklym-programista/</feedburner:origLink></entry>
+	</feed>

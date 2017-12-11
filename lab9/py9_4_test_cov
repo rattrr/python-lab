@@ -1,0 +1,15 @@
+============================= test session starts ==============================
+platform linux2 -- Python 2.7.12, pytest-3.3.1, py-1.5.2, pluggy-0.6.0
+rootdir: /home/student/dj/python-lab/lab9, inifile:
+plugins: cov-2.5.1
+collected 6 items
+
+py9_3test.py ......                                                      [100%]
+
+---------- coverage: platform linux2, python 2.7.12-final-0 ----------
+Name       Stmts   Miss  Cover
+------------------------------
+py9_3.py       4      0   100%
+
+
+=========================== 6 passed in 0.02 seconds ===========================

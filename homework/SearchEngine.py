@@ -49,7 +49,7 @@ if __name__ == "__main__":
     try:
         pi = PageIndex()
         se = SearchEngine(pi)
-        print pi
+        #print pi # to view index of pages with 5 most common words
         input_word = raw_input("\n\nType word to search for (or type \033[1mq\033[0m to exit): ")
         while(input_word != 'q'):
             se.search(input_word)

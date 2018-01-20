@@ -1,0 +1,3 @@
+Napisz program który w parametrze przyjmuje nazwę pliku.
+Program ma stworzyć słownik w którym zostanie zliczona ilość
+wystąpień danego słowa we wczytanym tekście.

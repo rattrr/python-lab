@@ -1,0 +1,27 @@
+body {
+  margin-top: 100px;
+  background-color: #B9E1DC;
+}
+
+div {
+  color: #FBFBFB;
+  margin: 0 auto;
+  padding: 5%;
+  width: 40%;
+  font-size:32;
+  background-color: #756C83;
+  font-family: sans-serif;
+}
+
+input {
+  width: 100%;
+  font-size:30;
+  color: WHITE;
+  text-align: center;
+  background-color: #F38181;
+  border: NONE;
+}
+
+input:focus{
+    outline-color: WHITE;
+}

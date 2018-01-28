@@ -1,0 +1,15 @@
+<html>
+<head>
+  {% load static %}
+  <link rel="stylesheet" type="text/css" href="{% static 'bunnypolls/custom.css' %}" />
+</head>
+<body>
+  <div>
+    <p>Type something in form below and press enter</p>
+    <form action="/bunnypolls/form_response/" method ="get">
+      <input type="text" name="test">
+    </form>
+  </div>
+</body>
+
+</html>

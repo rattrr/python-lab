@@ -1,0 +1,28 @@
+{% load static %}
+<link rel="stylesheet" type="text/css" href="{% static 'dbapp/custom.css' %}" />
+
+<div>
+{% if objects_list%}
+  <ul>
+  {% for object in objects_list %}
+    {% if object.id in found or object.isbn in found %}
+      <li class="marked"> {{ object }} </li>
+    {% else %}
+      <li> {{ object }} </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+{% else %}
+  <p> Nothing to show </p>
+{% endif %}
+<p id="linkback">
+<a href="/">back</a>
+</p>
+</div>
+
+<div>
+  <p> Search: </p>
+  <form action={{request.path}}>
+  <input name="keyword"></input>
+</form>
+</div>

@@ -1,0 +1,56 @@
+body {
+  margin-top: 100px;
+  background-color: #B9E1DC;
+}
+
+div {
+  color: #FBFBFB;
+  margin: 0 auto;
+  padding: 5%;
+  width: 40%;
+  font-size:20;
+  background-color: #756C83;
+  font-family: sans-serif;
+}
+
+input {
+  width: 100%;
+  font-size:24;
+  color: WHITE;
+  text-align: center;
+  background-color: #F38181;
+  border: NONE;
+}
+
+input:focus{
+    outline-color: WHITE;
+}
+
+li {
+  margin: 0 0 10px 0
+}
+
+
+a:link, a:visited {
+  color: WHITE;
+  text-decoration: none;
+  margin: 10 10 10 10;
+  background-color: #F38181;
+}
+
+a:hover {
+  color: #F38181;
+  background-color: WHITE;
+}
+
+p {
+  text-align: center;
+}
+
+p #linkback {
+  text-align: right;
+}
+
+.marked {
+  background-color: #F38181;
+}

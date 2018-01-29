@@ -1,0 +1,9 @@
+{% load static %}
+<link rel="stylesheet" type="text/css" href="{% static 'dbapp/custom.css' %}" />
+
+<div>
+{% if message %}
+  <p> {{ message }} <p>
+  <a href="/books/">books</a> | <a href="/borrowings/">borrowings</a> | <a href="/readers/">readers</a>
+{% endif %}
+</div>
